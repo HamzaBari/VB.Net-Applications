@@ -1,0 +1,69 @@
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbprojResolveAssemblyReference.cache
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Form1.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Calculator.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Resources.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbproj.GenerateResource.Cache
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbprojResolveAssemblyReference.cache
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.MainMenu.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Calculator.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Resources.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbproj.GenerateResource.Cache
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.PictureFunPlay.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Notepad.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.MainMenu.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Notepad.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.PictureFunPlay.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Speak.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Form7.resources
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe.config
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.pdb
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.xml
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.exe
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.xml
+E:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.pdb
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe.config
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.pdb
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.xml
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Speak.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.exe
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.xml
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.pdb
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Login.resources
+K:\Event driven programming\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Loops.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe.config
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.pdb
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.xml
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbprojResolveAssemblyReference.cache
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Login.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.MainMenu.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Calculator.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Notepad.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.PictureFunPlay.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Speak.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Loops.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Resources.resources
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbproj.GenerateResource.Cache
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbproj.CoreCompileInputs.cache
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.exe
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.xml
+F:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.pdb
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe.config
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.exe
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.pdb
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\bin\Debug\Hamza Programs.xml
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbprojResolveAssemblyReference.cache
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Login.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.MainMenu.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Calculator.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Notepad.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.PictureFunPlay.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Speak.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Loops.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login_Page.Resources.resources
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Login Page.vbproj.GenerateResource.Cache
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.exe
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.xml
+E:\Event driven programming\Assignments\P4\Hamza Programs\Login Page\Login Page\obj\Debug\Hamza Programs.pdb
